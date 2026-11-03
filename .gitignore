@@ -1,0 +1,20 @@
+# Colcon workspace output
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Runtime logs
+*.log
